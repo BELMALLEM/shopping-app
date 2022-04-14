@@ -1,6 +1,6 @@
-# my_app
+# Shopping App
 
-A new Flutter project.
+A flutter project for shopping application;
 
 ## Getting Started
 
